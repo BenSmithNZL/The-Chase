@@ -76,7 +76,6 @@ jupyter notebook
 ## Limitations
 
 - **No number of rounds recorded in head-to-heads:** Makes posterior estimates less precise. 
-- **Next steps:** [e.g. "Add contestant demographics, try a Bayesian approach, build a simple web app to simulate outcomes."]
 
 ## Next steps
 
