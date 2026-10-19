@@ -80,6 +80,7 @@ jupyter notebook
 ## Next steps
 
 - **MCMC:** Calculating the posteriors using MCMC to compare results with this approach.
+- **Indicators of ability:** Is a strong cash builder round a good predictor for head-to-head performance?
 - **Expected value:** Working out the expected value of each offer on the table for the player, based on the amount of money banked (or to be banked) and the probability of winning the final chase. 
 - **Risk aversion:** Making inferences about the risk aversion of players based on the offer that they choose. 
 - **Optimal strategy:** Is there a strategy that the team members could follow that would maximise the team's winnings? Do most teams cooperate and follow it?
