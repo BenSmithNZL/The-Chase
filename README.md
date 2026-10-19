@@ -56,7 +56,7 @@ the-chase/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/BenSmithNZL/the_chase.git
+git clone https://github.com/BenSmithNZL/The-Chase.git
 cd [the_chase]
 
 # 2. Create an environment and install dependencies
